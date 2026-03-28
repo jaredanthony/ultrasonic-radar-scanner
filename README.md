@@ -52,10 +52,10 @@ These challenges were addressed through iterative testing, parameter tuning, and
 https://drive.google.com/file/d/182Qmv5oS9xinBDu94A54QVwTsWGlwBTO/view?usp=drive_link
 
 ### Hardware Setup
-![Setup]IMG_9805.jpg
+![Setup](setup.jpg)
 
 ### Radar Visualization
-![Setup]IMG_9804.jpg
+![Setup](radar.jpg)
 
 ## Future Improvements
 
