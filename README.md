@@ -1,4 +1,4 @@
-# Ultrasonic-Radar-Scanner
+# Ultrasonic Radar Scanner
 
 This project is a real-time ultrasonic scanning system built using an Arduino, an HC-SR04 ultrasonic sensor, and a servo motor. The system sweeps across a range of angles, measures distance to nearby objects, and visualizes the results in a radar-style display using Processing.
 
