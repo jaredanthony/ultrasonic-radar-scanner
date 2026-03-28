@@ -47,9 +47,15 @@ These challenges were addressed through iterative testing, parameter tuning, and
 - Managing noisy data and improving system reliability  
 - Translating raw sensor data into meaningful visual output  
 
-## Demo
+## Project Demo
 
 https://drive.google.com/file/d/182Qmv5oS9xinBDu94A54QVwTsWGlwBTO/view?usp=drive_link
+
+### Hardware Setup
+![Setup]IMG_9805.jpg
+
+### Radar Visualization
+![Setup]IMG_9804.jpg
 
 ## Future Improvements
 
